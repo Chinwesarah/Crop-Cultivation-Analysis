@@ -11,5 +11,8 @@ Please refer to the attached Microsoft excel document
 ## Tools
 -Microsoft Excel 
 
-## Data Analysis
+## Data Cleaning
+To ensure data integrity and eliminate redundant and duplicate data, the following steps were taken:
+1. The column names `Area` and `Item` where changed to `Country` and `Crop`
+
 
