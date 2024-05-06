@@ -8,11 +8,13 @@ production, and yields across different countries and years. The goal is to util
 ## Data Sources
 Please refer to the attached Microsoft excel document
 
-## Tools
+## Tool(s)
 -Microsoft Excel 
 
 ## Data Cleaning
 To ensure data integrity and eliminate redundant and duplicate data, the following steps were taken:
-1. The column names `Area` and `Item` where changed to `Country` and `Crop`
+1. The column names `Area` and `Item` where changed to `Country` and `Crop` respectively.
+2. `China` and `China, Mainland` were found to have very similar data, the percentage difference between there data values was less than 5%, so `China, Mainland` was removed as duplicate data.
+3. `Year code` column was also removed as duplicate data
 
 
