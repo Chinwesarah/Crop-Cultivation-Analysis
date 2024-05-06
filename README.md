@@ -9,12 +9,17 @@ production, and yields across different countries and years. The goal is to util
 Please refer to the attached Microsoft excel document
 
 ## Tool(s)
--Microsoft Excel 
+-Microsoft Excel - Pivot tables, charts, dashboards and slicers
 
 ## Data Cleaning
 To ensure data integrity and eliminate redundant and duplicate data, the following steps were taken:
-1. The column names `Area` and `Item` where changed to `Country` and `Crop` respectively.
-2. `China` and `China, Mainland` were found to have very similar data, the percentage difference between there data values was less than 5%, so `China, Mainland` was removed as duplicate data.
+1. The column names `Area` and `Item` where changed to `Country` and `Crop` respectively for better understanding.
+2. `China` and `China, Mainland` were found to have very similar data, the percentage difference between their data values was less than 5%, so `China, Mainland` was removed as duplicate data.
 3. `Year code` column was also removed as duplicate data
 
+## Data Analysis and Visualization
+1. Uncover worldwide crops production trends
+2. Identify disparities and variations in the relationship between areas harvested and yields of crops across different countries and years. To achieve this, countries were ranked from highest to lowest for areas harvested and yields to determine countries there is a direct posistive relationship between yield and areas harvested
+3. Identify top and bottom producing countries of oats
+4. Conduct a Pareto analysis on rice production - 
 
