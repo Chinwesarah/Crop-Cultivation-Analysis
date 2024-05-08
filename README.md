@@ -19,7 +19,19 @@ To ensure data integrity and eliminate redundant and duplicate data, the followi
 
 ## Data Analysis and Visualization
 1. Uncover worldwide crops production trends
-2. Analyse crop metrics by identifying disparities and variations in the relationship between areas harvested, production and yield of crops across different countries and years. To achieve this, countries were ranked from highest to lowest for areas harvested, production and yield. Then the top 20 countries in each category were selected and analysed.
-3. Identify top and bottom producing countries of oats
-4. Conduct a Pareto analysis on the largest crop production - rice 
+2. Identify top and bottom producing countries of oats
+4. Conduct a Pareto analysis on the largest crop production (Rice) - This analysis aims to identify countries that account for 80 percent of the overall rice production across the years.
+5. Analyse crop metrics by identifying disparities and variations in the relationship between areas harvested, production and yield of crops across different countries and years. To achieve this, countries were ranked from highest to lowest for areas harvested, production and yield. Then the top 20 countries in each category were selected and analysed.
+
+## Results/Findings and Recommendations
+1. Steady significant increase in the production of spinach over the years, rice production saw a decrease from year 2000 to 2010 followed by a cyclical pattern until 2021.
+2. Canada and Russia are the top 2 producers of oats while Ghana and Syrian Arabic Republic are bottom 2.
+3. Eight Countries (China, India, Indonesia, Bangladesh, Viet Nam, Thailand, Myanmar, Philippines) were identified as accounting for about 80 percent of overall rice production.
+4. There is no direct relationship between the crop metrics - area harvested, production and yield. India ranked highest in areas harvested and second highest in production but is not in the top 20 yield category. Kuwait is the country with the highest yield overall but did not come up in the top 20 production and area harvested categories.
+
+## Recommendations
+**Rice Production**: The significant decrease in rice production from 2000 to 2010 followed by a cyclical pattern until 2021 signifies that there may be challenges in the rice sector. The stakeholders in the regions experiencing these challenges should look into the factors that could be responsible and put strategies in place to tackle them.
+**Oats Production**: The top two oats producing countries, Canada and Russia, implies these countries have very good conditions or competitive advantages for oat cultivation.International  collaboration with lower-producing countries like Syria and Ghana to share best practices and research findings should be encouraged. This could also apply to the concentration of rice production in a few countries(pareto analysis) as it also highlights the importance of international collaboration to address challenges.
+**Understanding Crop Metrics Disparities and improving yield:**  Generally, there  should be a direct relationship between yield and area harvested. That is, when the area harvested increases, yield is expected to increase. However, the relationship isn't solely determined by the size of the area harvested, other factors like soil fertility, climate conditions, crop variety, and agricultural practices are put into consideration. The lack of a direct relationship between area harvested, production, and yield in this analysis reflects the complexity of agricultural systems and the diverse factors influencing crop outcomes. Countries with high areas harvested and production but lower yields, such as India could utilize advances in agricultural technology, such as improved seeds, irrigation systems, fertilizers, and pest control methods,this could lead to increased yield without necessarily increasing the area harvested.
+
 
