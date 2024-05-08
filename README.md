@@ -19,7 +19,7 @@ To ensure data integrity and eliminate redundant and duplicate data, the followi
 
 ## Data Analysis and Visualization
 1. Uncover worldwide crops production trends
-2. Identify disparities and variations in the relationship between areas harvested and yields of crops across different countries and years. To achieve this, countries were ranked from highest to lowest for areas harvested and yields to determine countries there is a direct posistive relationship between yield and areas harvested
+2. Analyse crop metrics by identifying disparities and variations in the relationship between areas harvested, production and yield of crops across different countries and years. To achieve this, countries were ranked from highest to lowest for areas harvested, production and yield. Then the top 20 countries in each category were selected and analysed.
 3. Identify top and bottom producing countries of oats
-4. Conduct a Pareto analysis on rice production - 
+4. Conduct a Pareto analysis on the largest crop production - rice 
 
